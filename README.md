@@ -1,6 +1,6 @@
-# CS361-Microservice_A
+# Recipe Generator Microservice
 
-This is the microservice A that I have implemented for my partner.  
+This is the recipe generator microservice that I have implemented a friend's cooking project.  
 This is an artifical intelligence powered recipe generator that relies on the user writing a list of parameters (cusineType, dishType, and tasteDescriptor) to the recipe.txt file in the following format:
 
 ![image](https://github.com/user-attachments/assets/c83e743b-bcda-4b2e-85de-599005d496d9)
